@@ -7,5 +7,5 @@ Name: Nicole Annika Gonsalves
 Latest Date: 05/24/2020
 ################################################################################
 
-1a. Quick Sort with Array List
+1/. Quick Sort with Array List
 
