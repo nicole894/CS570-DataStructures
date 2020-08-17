@@ -96,6 +96,7 @@ public class Quicksort {
         System.out.println();
         System.out.print("Sorted ArrayList is:");
         System.out.print(qs.arr);
+		//System.out.print(arr_length);
 
     }
     
